@@ -1,0 +1,54 @@
+{
+    "id": "MrRedPortal - DDB Monsters",
+    "name": "MrRedPortal - DDB Monsters Compendium",
+    "title": "DDB Monsters Compendium",
+    "description": "A collection of my ddb Monsters content.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "MrRedPortal",
+            "discord": "MrRedPortal#1337",
+        }
+    ],
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": "0.8.6",
+        "verified": "10"
+    },
+    "packs": [
+        {
+            "name": "ddb-monsters",
+            "label": "DDB Monsters",
+            "path": "./packs/ddn-monsters.db",
+            "entity": "Actor",
+            "type": "Actor",
+            "system": "dnd5e"
+        },
+        {
+            "name": "ddb-items",
+            "label": "DDB Items",
+            "path": "./packs/ddb-items.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "ddb-spells",
+            "label": "DDB Spells",
+            "path": "./packs/ddb-spells.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "module-roll-tables",
+            "label": "Module Roll Tables",
+            "path": "./packs/ddb-tables.db",
+            "entity": "RollTable",
+            "type": "RollTable"
+        },
+    ],
+    "manifest": "https://github.com/",
+    "download": "https://github.com/"
+  }
