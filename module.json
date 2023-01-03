@@ -49,6 +49,6 @@
             "type": "RollTable"
         },
     ],
-    "manifest": "https://github.com/",
-    "download": "https://github.com/"
+    "manifest": "https://github.com/MrRedPortal/DDB-Munch/blob/Foundry/module.json",
+    "download": "https://github.com/MrRedPortal/DDB-Munch/archive/refs/tags/Foundry.zip"
   }
